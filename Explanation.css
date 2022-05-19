@@ -1,0 +1,39 @@
+button{
+    border-radius: 20px;
+    border-width: 5px;
+    border-color: crimson;
+    color: aqua;
+    background-color: black;
+}
+button:hover{
+    border-color: rgb(231, 45, 83);
+    border-radius: 10px;
+    color: blue;
+    background-color: goldenrod;
+}
+h1{
+    color: rgb(37, 211, 211);
+    text-align: center;
+}
+h3{
+    color: rgb(17, 146, 146);
+}
+body{
+    background-color: aquamarine;
+}
+p{
+    color: blue;
+}
+h2{
+    color: rgb(8, 70, 242);
+}
+hr {
+    width: 50%; 
+    margin-left: auto;
+    margin-right: auto;
+   background: rgb(86, 213, 213);
+   height: 8px;
+   border: 10px;
+   border-radius: 30px;
+   border-color: blue;
+}
