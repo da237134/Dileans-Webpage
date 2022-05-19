@@ -4,6 +4,8 @@ body{
 h1{
     color: rgba(177, 3, 3, 0.905);
     text-align: center;
+    text-shadow: 4px 3px red, 5px 7px rgba(253, 49, 90, 0.905);
+    font-family: 'Finger Paint', cursive;
 }
 a{
     font-family: 'Finger Paint', cursive;

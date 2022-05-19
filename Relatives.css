@@ -33,4 +33,9 @@ h2{
 }
 button{
     margin-left: 1366px;
+    color: green;
+    border-width: 10px;
+    border-radius: 12px;
+    background-color: yellowgreen;
+    border-color: darkgreen;
 }

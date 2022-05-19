@@ -26,6 +26,7 @@ p{
 }
 h2{
     color: rgb(8, 70, 242);
+    text-shadow: 3px 2px rgb(11, 177, 103);
 }
 hr {
     width: 50%; 
